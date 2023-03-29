@@ -1,7 +1,9 @@
 
 
 <h1 align="center"> The Lighthouse :</h1>
-This project is a web application that simulates a lighthouse. It is built using HTML, CSS, and JavaScript.
+
+- This project is a web application that simulates a lighthouse. 
+- It is built using HTML, CSS, and JavaScript.
 
 Features
 The lighthouse beam rotates 360 degrees and shines over the water.
