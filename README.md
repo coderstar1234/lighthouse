@@ -12,8 +12,10 @@
 - The user can turn the light on and off by clicking a button.
 - The user can also adjust the rotation speed of the beam using a slider.
 <h1 align="center"> Installation:</h1>
+<h3 align=" center" >To run this project locally:📺 </h3>
+<div align="center" >
+<img height="100" wedith="100" src="https://media1.giphy.com/media/dvsE3ncGE4g718CAqM/200.gif"></div>
 
-- To run this project locally,
  <h2 align="center"> follow these steps:</h2>
 
 <h3 align="center"> Clone the repository from GitHub.:</h3>
