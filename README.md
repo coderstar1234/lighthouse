@@ -5,21 +5,25 @@
 - This project is a web application that simulates a lighthouse. 
 - It is built using HTML, CSS, and JavaScript.
 
-Features
+<h1 align="center"> Features:</h1>
+
 The lighthouse beam rotates 360 degrees and shines over the water.
 The light changes color from green to red every 3 seconds.
 The user can turn the light on and off by clicking a button.
 The user can also adjust the rotation speed of the beam using a slider.
-Installation
+<h1 align="center"> Installation:</h1>
+
 To run this project locally, follow these steps:
 
-Clone the repository from GitHub.
+<h1 align="center"> Clone the repository from GitHub.:</h1>
+
 Open the index.html file in your web browser.
-Usage
+<h1 align="center"> Usage:</h1>
+
 To turn the light on and off, click the "On/Off" button. To adjust the rotation speed, move the slider to the desired speed.
 
-Credits
-This project was created by [Your Name] as a learning exercise. It was inspired by [Source of inspiration].
+<h1 align="center"> Credits:</h1>
 
-License
+This project was created by [Your Name] as a learning exercise. It was inspired by [Source of inspiration].
+<h1 align="center"> License:</h1>
 This project is licensed under the MIT License. See the LICENSE file for more information
