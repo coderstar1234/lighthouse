@@ -7,7 +7,7 @@
 -  HTML
 -  CSS
 -  JavaScript.
-
+https://cdn.dribbble.com/users/214929/screenshots/3912302/lighthouse-animation.gif
 <h1 align="center"> Features:</h1>
 
 - The lighthouse beam rotates 360 degrees and shines over the water.
