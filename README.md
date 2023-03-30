@@ -7,23 +7,25 @@
 
 <h1 align="center"> Features:</h1>
 
-The lighthouse beam rotates 360 degrees and shines over the water.
-The light changes color from green to red every 3 seconds.
-The user can turn the light on and off by clicking a button.
-The user can also adjust the rotation speed of the beam using a slider.
+- The lighthouse beam rotates 360 degrees and shines over the water.
+- The light changes color from green to red every 3 seconds.
+- The user can turn the light on and off by clicking a button.
+- The user can also adjust the rotation speed of the beam using a slider.
 <h1 align="center"> Installation:</h1>
 
-To run this project locally, follow these steps:
+- To run this project locally,
+ <h2 align="center"> follow these steps:</h2>
 
-<h1 align="center"> Clone the repository from GitHub.:</h1>
+<h3 align="center"> Clone the repository from GitHub.:</h3>
 
-Open the index.html file in your web browser.
+- Open the index.html file in your web browser.
 <h1 align="center"> Usage:</h1>
 
-To turn the light on and off, click the "On/Off" button. To adjust the rotation speed, move the slider to the desired speed.
+- To turn the light on and off, click the "On/Off" button. To adjust the rotation speed, move the slider to the desired speed.
 
 <h1 align="center"> Credits:</h1>
 
-This project was created by [Your Name] as a learning exercise. It was inspired by [Source of inspiration].
+- This project was created by [Your Name] as a learning exercise. It was inspired by [Source of inspiration].
 <h1 align="center"> License:</h1>
-This project is licensed under the MIT License. See the LICENSE file for more information
+
+- This project is licensed under the MIT License. See the LICENSE file for more information
