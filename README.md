@@ -39,6 +39,7 @@
 <h1 align="center"> Credits:</h1>
 
 - This project was created by [Your Name] as a learning exercise. It was inspired by [Source of inspiration].
+  <hr>
 <h1 align="center"> License:</h1>
 
 - This project is licensed under the MIT License. See the LICENSE file for more information
