@@ -31,6 +31,7 @@
 <img height="100" wedith="100" src="https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif"></div>
 
 - Open the index.html file in your web browser.
+  <hr>
 <h1 align="center"> Usage:</h1>
 
 - To turn the light on and off, click the "On/Off" button. To adjust the rotation speed, move the slider to the desired speed.
