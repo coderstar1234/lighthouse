@@ -3,7 +3,7 @@
 <h1 align="center"> The Lighthouse :</h1>
 
 - This project is a web application that simulates a lighthouse. 
-- It is built using:
+<h2 align="center"> It is built using:</h2>
 -  HTML
 -  CSS
 -  JavaScript.
