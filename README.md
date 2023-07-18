@@ -4,6 +4,7 @@
 
 - This project is a web application that simulates a lighthouse. 
 <h2 align="center"> It is built using:</h2>
+
 -  HTML
 -  CSS
 -  JavaScript.
