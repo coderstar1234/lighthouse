@@ -18,6 +18,7 @@
 - The light changes color from green to red every 3 seconds.
 - The user can turn the light on and off by clicking a button.
 - The user can also adjust the rotation speed of the beam using a slider.
+  <hr>
 <h1 align="center"> Installation:</h1>
 <h3 align=" center" >To run this project locally:📺 </h3>
 <div align="center" >
