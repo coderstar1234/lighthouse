@@ -41,3 +41,4 @@
 <h1 align="center"> License:</h1>
 
 - This project is licensed under the MIT License. See the LICENSE file for more information
+<hr>
