@@ -7,6 +7,7 @@
 -  HTML
 -  CSS
 -  JavaScript.
+  <hr>
 <div align="center" >
 <img height="300" wedith="300" src="https://cdn.dribbble.com/users/214929/screenshots/3912302/lighthouse-animation.gif"></div>
 
