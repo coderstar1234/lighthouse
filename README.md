@@ -33,7 +33,7 @@
 
 - Open the index.html file in your web browser.
   <hr>
-<h1 align="center"> Usage:</h1>
+<h1 align="center"> Usage:-</h1>
 
 - To turn the light on and off, click the "On/Off" button. To adjust the rotation speed, move the slider to the desired speed.
 <hr>
