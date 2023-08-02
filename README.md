@@ -37,7 +37,7 @@
 
 - To turn the light on and off, click the "On/Off" button. To adjust the rotation speed, move the slider to the desired speed.
 <hr>
-<h1 align="center"> Credits:-</h1>
+<h1 align="center"> Credits💳:-</h1>
 
 - This project was created by [Your Name] as a learning exercise. It was inspired by [Source of inspiration].
   <hr>
